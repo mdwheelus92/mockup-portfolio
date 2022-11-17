@@ -102,11 +102,8 @@ p {
   color: white;
 }
 
-@media (max-width: 389) {
-  p {
-    display: none;
-  }
-  .extra-link {
-    padding-bottom: 50px;
+@media (max-width: 390) {
+  .container {
+    max-width: 385px;
   }
 }
