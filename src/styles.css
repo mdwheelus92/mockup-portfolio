@@ -106,4 +106,7 @@ p {
   .container {
     max-width: 385px;
   }
+  .col-sm-6 img {
+    display: none;
+  }
 }
