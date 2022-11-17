@@ -64,12 +64,6 @@ p {
   border: 1px solid var(--primary-color);
 }
 
-//.homepage-link {
-// color: var(--primary-color);
-// text-align: center;
-// display: block;
-//}
-
 .about-paragraphs {
   display: flex;
   margin: 30px 50px;
@@ -113,6 +107,6 @@ p {
     display: none;
   }
   .extra-link {
-    margin-bottom: 1000px;
+    padding-bottom: 50px;
   }
 }
