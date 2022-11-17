@@ -107,3 +107,12 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+
+@media (max-width: 389) {
+  p {
+    display: none;
+  }
+  .extra-link {
+    margin-bottom: 1000px;
+  }
+}
